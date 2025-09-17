@@ -51,7 +51,7 @@ void keyPressed() {
 }
 
 void drawCRT() {
-  clear();
+  //clear();
   stroke(0);
   rect(90,175,220,200, 35);
   rect(115,200,170,150);
